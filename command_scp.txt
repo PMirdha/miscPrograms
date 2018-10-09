@@ -1,0 +1,7 @@
+scp -i Downloads/vpmirdha.pem index.html ec2-user@ec2-54-69-120-53.us-west-2.compute.amazonaws.com:/home/
+
+
+
+
+scp -i Downloads/vpmirdha.pem ec2-user@ec2-54-69-120-53.us-west-2.compute.amazonaws.com:/home/index.html .
+
